@@ -16,7 +16,7 @@ To run the program, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the directory where your ta_office.c source file is located.
 3. Compile the source file using the following command: `g++ ta-3.cpp -o ta-3 -lpthread`
-4. Execute the compiled program by entering ./ta_office <number_of_students> (or ta_office.exe <number_of_students> on Windows) in your terminal, replacing <number_of_students> with the desired number of students. For example: ./ta-3 5
+4. Execute the compiled program by entering ./ta_office <number_of_students> (or ta-3.exe <number_of_students> on Windows) in your terminal, replacing <number_of_students> with the desired number of students. For example: `./ta-3 5`
 5. The program will run and display the interactions between the TA and the students.
 
 ## Runing result
